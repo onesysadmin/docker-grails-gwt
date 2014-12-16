@@ -1,4 +1,4 @@
-FROM onesysadmin/grails:1.1.1-SNAPSHOT
+FROM onesysadmin/grails:2.4
 
 ENV GWT_HOME /usr/local/gwt-linux-1.5.3
 
